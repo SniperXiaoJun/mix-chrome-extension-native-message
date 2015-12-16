@@ -8,6 +8,6 @@
   "path": "com.chrome.extension.native_message.exe",
   "type": "stdio",
   "allowed_origins": [
-	"chrome-extension://neojnpijaeobgglebngnielkjhkdlfgf/"
+	"chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/"
   ]
 }
